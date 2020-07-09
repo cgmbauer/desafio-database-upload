@@ -1,10 +1,9 @@
-<p>
-    <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='GoStack logo' align="left" width="150px" height="123px" />
-    <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' align="right" width="400px" height="123px" />
-</p>
 <p align="center">
-</p>
-
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='GoStack logo'  width="150px" height="123px" hspace="30"/>                                                       
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' width="400px" height="123px"/> 
+     
+</p><br/><br/><br/><br/><br/>    
+  
 # Desafio - Database Upload
 
 Aplicação para listar, cadastrar e armazenar transações financeiras.  
