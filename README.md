@@ -1,8 +1,8 @@
 <p align="center">
-  <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' float="right"  height="123px" />   
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' width="100%" height="170px" />   
 </p>  
   
-# Desafio - Database Upload
+# Desafio - Database Upload 
 
 Aplicação para listar, cadastrar e armazenar transações financeiras.  
 Parte do desafio do bootcamp GoStack.
