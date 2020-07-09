@@ -1,8 +1,7 @@
 <p align="center">
   <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='GoStack logo'  width="150px" height="123px" hspace="20"/>                                                       
-  <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' width="400px" height="123px"/> 
-     
-</p><br/><br/><br/><br/><br/>    
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' width="400px" height="123px"/>      
+</p>  
   
 # Desafio - Database Upload
 
