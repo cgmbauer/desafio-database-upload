@@ -17,7 +17,9 @@ Web application to list, register and save financial transactions on a database.
 
 - [Express v.4.17.1](https://expressjs.com/pt-br/);
 
-- [UUIDV4 v.6.0.7](https://www.npmjs.com/package/uuidv4).
+- [UUIDV4 v.6.0.7](https://www.npmjs.com/package/uuidv4);
+
+- [TypeORM v.0.2.24](https://typeorm.io/#/).
 
 ## Getting started
 
@@ -38,13 +40,15 @@ git clone https://github.com/cgmbauer/desafio-database-upload.git
 yarn dev:server
 ```
 
+- Make sure you have the Postgres up and running on your machine.
+
 ## Note
 
-I do recommend that you have [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) installed to see the results. 
+- I do recommend that you have [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) installed to see the results. 
 
-If you do use Insomnia, you can download this [workspace](https://github.com/cgmbauer/assets/tree/master/insomnia_workspaces/desafio-database-upload) to use the application.
+- If you do use Insomnia, you can download this [workspace](https://github.com/cgmbauer/assets/tree/master/insomnia_workspaces/desafio-database-upload) to use the application.
 
-You can also go [here](https://github.com/cgmbauer/gofinances-web) and use the front-end to execute the application.
+- You can also go [here](https://github.com/cgmbauer/gofinances-web) and use the front-end to execute the application.
 
 ## Acknowledgments
 
