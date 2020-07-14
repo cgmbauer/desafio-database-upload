@@ -11,6 +11,8 @@
 Aplicação para listar, cadastrar e armazenar transações financeiras.  
 Parte do desafio do bootcamp GoStack.
 
+![database upload demonstration gif](https://github.com/cgmbauer/assets/blob/master/gifs/desafio-database-upload.gif)   
+
 ## Construído com
 
 - [Nodejs v.12.18.0](https://nodejs.org/en/);
