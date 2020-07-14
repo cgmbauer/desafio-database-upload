@@ -11,6 +11,7 @@
 
 Web application to list, register and save financial transactions on a database.
 
+![database upload demonstration gif](https://github.com/cgmbauer/assets/blob/master/gifs/desafio-database-upload.gif)   
 ## Build with
 
 - [Nodejs v.12.18.0](https://nodejs.org/en/);
