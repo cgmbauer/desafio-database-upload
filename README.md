@@ -28,7 +28,7 @@ Web application to list, register and save financial transactions on a database.
 
 - [yarn v.1.x.x](https://classic.yarnpkg.com/en/docs/install)
 
-### Instalation
+### Installation
 
 - **1º.** Clone this repository:
 ```sh
